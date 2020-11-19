@@ -1,0 +1,104 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Background",
+            "column_min": 0,
+            "row_min": 0,
+            "column_max": 450,
+            "row_max": 800,
+            "width": 450,
+            "height": 800
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "column_min": 0,
+            "row_min": 0,
+            "column_max": 449,
+            "row_max": 751,
+            "width": 449,
+            "height": 751
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "column_min": 88,
+            "row_min": 762,
+            "column_max": 108,
+            "row_max": 787,
+            "width": 20,
+            "height": 25
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "column_min": 212,
+            "row_min": 763,
+            "column_max": 235,
+            "row_max": 787,
+            "width": 23,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "column_min": 340,
+            "row_min": 761,
+            "column_max": 360,
+            "row_max": 787,
+            "width": 20,
+            "height": 26
+        },
+        {
+            "id": 5,
+            "class": "Block",
+            "column_min": 318,
+            "row_min": 88,
+            "column_max": 448,
+            "row_max": 163,
+            "width": 130,
+            "height": 75
+        },
+        {
+            "id": 6,
+            "class": "Block",
+            "column_min": 0,
+            "row_min": 128,
+            "column_max": 315,
+            "row_max": 343,
+            "width": 315,
+            "height": 215
+        },
+        {
+            "id": 7,
+            "class": "Block",
+            "column_min": 318,
+            "row_min": 167,
+            "column_max": 448,
+            "row_max": 746,
+            "width": 130,
+            "height": 579
+        },
+        {
+            "id": 8,
+            "class": "Block",
+            "column_min": 0,
+            "row_min": 345,
+            "column_max": 315,
+            "row_max": 400,
+            "width": 315,
+            "height": 55
+        },
+        {
+            "id": 9,
+            "class": "Block",
+            "column_min": 0,
+            "row_min": 402,
+            "column_max": 315,
+            "row_max": 746,
+            "width": 315,
+            "height": 344
+        }
+    ]
+}
